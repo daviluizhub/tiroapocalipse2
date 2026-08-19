@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+Jogos Do Davi/build/
+Jogos Do Davi/build_dist/
+Jogos Do Davi/exe_dist/
